@@ -17,8 +17,5 @@ def generate_primes(limit):
             primes.append(num)
     return primes
 
-# Example usage
-limit = 100
-print(f"Prime numbers up to {limit}:")
-print(generate_primes(limit))
+
 
